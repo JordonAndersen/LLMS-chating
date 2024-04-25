@@ -468,9 +468,7 @@ Fantastic work, coding enthusiasts! You've navigated the essentials of LLM promp
 Asking the wrong questions will get you the wrong answers.  
 Better prompts yield better answers.
 
-## Challenges
-* [Reading Errors](https://github.com/foxtrotplatoonew/reading-errors)
-* [Prompt Evolution](https://github.com/foxtrotplatoonew/prompt-evolution)
+
 
 <!-- markdownlint-disable -->
 
